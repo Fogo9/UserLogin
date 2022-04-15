@@ -12,7 +12,7 @@
 
 * The variables **String** and **Int** is created.
 
-* Values ​​are taken from the user with the scanner class.
+* Values are taken from the user with the scanner class.
 
 * Log in with username and password using the if construct.
 
