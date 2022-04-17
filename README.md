@@ -43,7 +43,6 @@
 
                 password = input.nextLine();
 
-
 ```
 
 ```Java
@@ -59,7 +58,6 @@
                 System.out.print("Press 1 to Reset Password : ");
 
                 choose = input.nextInt();
-
 
 ```
 ```Java
@@ -90,11 +88,8 @@
         } else {
             System.out.println("Username or Password is incorrect !");
         }
-
-
     }
 }
-
 
 ```
 
