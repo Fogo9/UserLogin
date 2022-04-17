@@ -47,7 +47,7 @@ public class userlogin{
                 } else {
 
                     System.out.println("Password Successfully Created.");
-
+                    
                 }
             } else {
 
@@ -56,9 +56,9 @@ public class userlogin{
             }
 
         } else {
+            
             System.out.println("Username or Password is incorrect !");
+            
         }
-
-
     }
 }
