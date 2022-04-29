@@ -20,8 +20,6 @@
 
 * If you enter an incorrect username or password, you will receive a warning.
 
-<br />
-
 ## CODES
 
 ```Java
