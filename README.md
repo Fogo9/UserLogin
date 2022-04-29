@@ -1,14 +1,14 @@
 # **USER LOGIN**
 
-# Information
+## INFORMATION
 
 * **Improved user login and password reset method.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **String** and **Int** is created.
 
@@ -22,7 +22,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -133,13 +133,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/UserLogin.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
